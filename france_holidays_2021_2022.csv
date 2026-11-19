@@ -1,0 +1,23 @@
+date,event_name,event_type,is_public_holiday
+2021-01-01,Jour de l'an,Public holiday,1
+2021-04-05,Lundi de Pâques,Public holiday,1
+2021-05-01,Fête du Travail,Public holiday,1
+2021-05-08,Fête de la Victoire,Public holiday,1
+2021-05-13,Ascension,Public holiday,1
+2021-05-24,Lundi de Pentecôte,Public holiday,1
+2021-07-14,Fête nationale,Public holiday,1
+2021-08-15,Assomption,Public holiday,1
+2021-11-01,Toussaint,Public holiday,1
+2021-11-11,Armistice,Public holiday,1
+2021-12-25,Noël,Public holiday,1
+2022-01-01,Jour de l'an,Public holiday,1
+2022-04-18,Lundi de Pâques,Public holiday,1
+2022-05-01,Fête du Travail,Public holiday,1
+2022-05-08,Fête de la Victoire,Public holiday,1
+2022-05-26,Ascension,Public holiday,1
+2022-06-06,Lundi de Pentecôte,Public holiday,1
+2022-07-14,Fête nationale,Public holiday,1
+2022-08-15,Assomption,Public holiday,1
+2022-11-01,Toussaint,Public holiday,1
+2022-11-11,Armistice,Public holiday,1
+2022-12-25,Noël,Public holiday,1
